@@ -26,7 +26,7 @@ If you want to use our codes and datasets in your research, please cite:
 We are finding license suitable to release this software. Currently codes are under request and will be released later.
 
 ## Dataset
-We provide two processed datasets: London-Attractions (LON-A) and New-York-City-Restaurant (NYC-R) datasets.
+We provide two rich-attribute datasets: London-Attractions (LON-A) and New-York-City-Restaurant (NYC-R) datasets, which have user profiles and item attributes, and are collected from [TripAdvisor](https://www.tripadvisor.com.sg/).
 * `London_Attractions_Complete_Review.csv`
   * All positive instances.
   * Each line is a review, where the fields of user profiles and item attributes start with 'u' and 'i', respectively.
